@@ -1,3 +1,0 @@
-# TreeStickies
-
-Tree-Structured Stickies
